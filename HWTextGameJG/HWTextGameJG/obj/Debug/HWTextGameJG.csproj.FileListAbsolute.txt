@@ -1,7 +1,0 @@
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\bin\Debug\HWTextGameJG.exe.config
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\bin\Debug\HWTextGameJG.exe
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\bin\Debug\HWTextGameJG.pdb
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\obj\Debug\HWTextGameJG.csproj.AssemblyReference.cache
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\obj\Debug\HWTextGameJG.csproj.CoreCompileInputs.cache
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\obj\Debug\HWTextGameJG.exe
-C:\Users\jkatz\Desktop\School Work\IGME 105\HW\igme105-hw-jg\HWTextGameJG\HWTextGameJG\obj\Debug\HWTextGameJG.pdb
